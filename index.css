@@ -1,0 +1,73 @@
+body {
+  background-color: rgb(206, 206, 206);
+}
+#header {
+  line-height: 1%;
+  font-size: xx-large;
+  font-weight: bolder;
+}
+
+.head-description {
+  line-height: 0.55;
+  font-size: large;
+  font-weight: bold;
+}
+h2 {
+  line-height: 0.15;
+  font-size: larg;
+  font-weight: 900;
+}
+article {
+  margin-top: 1%;
+  margin-left: 0%;
+  margin-right: 70%;
+  margin-bottom: 2%;
+  border-radius: 2%;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  padding-left: 1%;
+  padding-top: 1%;
+  padding-right: 1%;
+  padding-bottom: 0%;
+  background-color: rgb(255, 255, 255);
+  width: 100mm;
+  height: 65mm;
+}
+.description {
+  font-size: large;
+  font-weight: 500;
+  margin-bottom: 1%;
+}
+.number {
+  margin-top: 0;
+  margin-bottom: 1%;
+  font-size: xx-large;
+  color: #228b22;
+  font-weight: bold;
+}
+.discount {
+  font-size: small;
+  color: grey;
+  font-weight: 100;
+}
+button {
+  margin-top: 0%;
+  margin-right: 0%;
+  margin-left: 0%;
+  margin-bottom: 0%;
+  border-radius: 2%;
+  border-right: 0;
+  border-top: 0;
+  border-bottom: 0;
+  border-left: 0;
+  padding-left: 0%;
+  padding-right: 5mm;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  background-color: #228b22;
+  color: white;
+  width: 100mm;
+  height: 10mm;
+}
